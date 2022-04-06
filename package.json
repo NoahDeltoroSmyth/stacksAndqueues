@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon linkedList.js",
+    "start": "nodemon PersonTreeNode.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
